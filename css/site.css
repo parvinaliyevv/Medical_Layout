@@ -1,0 +1,82 @@
+@import url('reset.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.opacity-bg {
+    background-color: #fffc;
+}
+
+.bg-blue {
+    background-color: #6bc2f1;
+}
+
+.bg-gray {
+    background-color: #f1f1f1;
+}
+
+.opacity-bg-blue {
+    background-color: #6bc2f1aa;
+}
+
+.text-blue {
+    color: #6bc2f1;
+}
+
+.vh-50 {
+    height: 50vh;
+}
+
+.font-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font: 400 0.95em 'Roboto';
+    line-height: 20px;
+    margin: auto;
+}
+
+.custom-anchor {
+    font: 400 0.7em 'Roboto';
+}
+
+.header-bg {
+    background: url('../images/headerbg.jpg') center/cover;
+}
+
+.operation {
+    background: url('../images/operation.jpg') center/cover;
+}
+
+.children {
+    background: url('../images/children.jpg') center/cover;
+}
+
+.laborotory {
+    background: url('../images/laborotory.jpg') center/cover;
+}
+
+.laborotory-test {
+    background: url('../images/laborotory-test.jpg') center/cover;
+}
+
+.laborotory-test-tube {
+    background: url('../images/laborotory-test-tube.jpg') center/cover;
+}
+
+textarea {
+    height: 200px;
+}
+
+input[type='submit'] {
+    border: 1px solid #6bc2f1;
+}
+
+footer {
+    background-color: #072035;
+}
+
+footer p, footer article a {
+    opacity: 75%;
+    color: #fff;
+    display: block;
+}
