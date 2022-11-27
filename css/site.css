@@ -35,6 +35,11 @@ p {
     margin: auto;
 }
 
+.custom-rounded-circle {
+    height: 100px;
+    border-radius: 50%;
+}
+
 .custom-anchor {
     font: 400 0.7em 'Roboto';
 }
@@ -80,3 +85,4 @@ footer p, footer article a {
     color: #fff;
     display: block;
 }
+
